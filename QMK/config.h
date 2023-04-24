@@ -17,6 +17,7 @@
 
 #define DYNAMIC_KEYMAP_LAYER_COUNT 5
 #define TAPPING_TERM 250
+//#define ENCODER_DIRECTION_FLIP              // Enable if encoder rotation is opposite of what's expected
 
 #define NO_MUSIC_MODE
 #define LAYER_STATE_16BIT
