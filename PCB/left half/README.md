@@ -1,1 +1,1 @@
-These are the gerber files for the Tweedle left half
+These are the EasyEDA gerber files for the left half of the Tweedle keyboard.
