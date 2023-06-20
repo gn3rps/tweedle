@@ -24,3 +24,16 @@ The Tweedle is configured to use QMK's bootmagic lite feature for easy flashing.
 
 ### Step 5
 >Repeat steps 2-4 for the other half of the Tweedle, then enjoy typing!
+
+
+
+## How to use VIA with the Tweedle:
+
+### Step 1
+>Open a new browser tab to go to the [VIA web application](https://usevia.app/)
+
+### Step 2
+>Click on the gear icon at the top of the VIA page to go to [VIA's settings](https://usevia.app/settings)
+
+### Step 3
+>Click the slider next to ```Show Design tab```
