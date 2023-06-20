@@ -2,7 +2,7 @@ These are the default QMK files that the Tweedle comes pre-flashed with. By defa
 
 ## How to flash new QMK files (such as keymaps) to the Tweedle:
 
-The Tweedle is configured to use QMK's bootmagic lite feature for easy flashing. After you've modified the QMK files and are ready to flash them to the Tweedle, follow these steps:
+The Tweedle is configured to use QMK's bootmagic lite feature for easy flashing. Follow these steps after you've modified the QMK files and are ready to flash them to the Tweedle. Note: if editing the keymap, I recommend editing the default keymap in the via keymap folder(.
 
 ### Step 1
 >Ensure QMK is installed and up to date on your computer (see the [QMK Getting Started documentation](https://github.com/qmk/qmk_firmware/blob/master/docs/newbs_getting_started.md)).
@@ -33,7 +33,19 @@ The Tweedle is configured to use QMK's bootmagic lite feature for easy flashing.
 >Open a new browser tab to go to the [VIA web application](https://usevia.app/)
 
 ### Step 2
->Click on the gear icon at the top of the VIA page to go to [VIA's settings](https://usevia.app/settings)
+>Click on the gear ([settings](https://usevia.app/settings)) icon at the top of the VIA page.
 
 ### Step 3
->Click the slider next to ```Show Design tab```
+>Click the slider next to ```Show Design tab```, then click the paintbrush ([design](https://usevia.app/design)) icon that appears at the top of the page next to the gear ([settings](https://usevia.app/settings)) icon.
+
+### Step 4
+>Click the ```Load``` button next to ```Load Draft Definition``` then navigate to the ```via.json``` file in the Tweedle's QMK files and click ```Open```.
+
+### Step 5
+>Choose whether or not you have encoders on your Tweedle by clicking the drop-down menu next to ```Left half``` and ```Right half``` then click the keyboard ([configure](https://usevia.app/)) icon at the top of the page.
+
+### Step 6
+>Click the ```Authorize device +``` button, then select ```sprengBoard Tweedle``` in the popup and click ```Connect```
+
+### Step 7
+>Modify the Tweedle's keymap to your heart's content!
