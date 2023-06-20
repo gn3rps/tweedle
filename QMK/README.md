@@ -15,10 +15,10 @@ The Tweedle is configured to use QMK's bootmagic lite feature for easy flashing.
   
 ### Step 4
 >Open the Command Line Interface (CLI) on your computer, navigate to the same directory where you've saved the Tweedle QMK files, then run the following command:
-
+>
 >**For left half:**
 ```qmk flash -kb tweedle -km via -bl uf2-split-left```
-
+>
 >**For right half:**
 ```qmk flash -kb tweedle -km via -bl uf2-split-right```
 
