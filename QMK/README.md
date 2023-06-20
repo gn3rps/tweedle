@@ -42,7 +42,7 @@ The Tweedle is configured to use QMK's bootmagic lite feature for easy flashing.
 >Click the ```Load``` button next to ```Load Draft Definition``` then navigate to the ```via.json``` file in the Tweedle's QMK files and click ```Open```.
 
 ### Step 5
->Choose whether or not you have encoders on your Tweedle by clicking the drop-down menu next to ```Left half``` and ```Right half``` then click the keyboard ([configure](https://usevia.app/)) icon at the top of the page.
+>Choose whether or not you have encoders on your Tweedle by clicking the drop-down menus next to ```Left half``` and ```Right half``` then click the keyboard ([configure](https://usevia.app/)) icon at the top of the page.
 
 ### Step 6
 >Click the ```Authorize device +``` button, then select ```sprengBoard Tweedle``` in the popup and click ```Connect```
